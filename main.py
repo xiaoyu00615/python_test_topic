@@ -4,6 +4,7 @@ import component.public as public
 
 def main():
     public.hello()
+    public.message('xiaoxiao')
 
 
 # 按装订区域中的绿色按钮以运行脚本。
