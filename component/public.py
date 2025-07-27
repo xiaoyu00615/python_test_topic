@@ -7,3 +7,9 @@ def message(mes,num = 3):
         return
 
     print(f'你好{mes}')
+
+    new_message("新人你好")
+
+def new_message(name):
+    print(f"{name}:新消息来啦！！")
+
